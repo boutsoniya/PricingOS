@@ -1,8 +1,8 @@
-# Human-depth product layer
+# Maekrt-depth product layer
 
 PricingOS is deliberately not a sterile finance calculator. Real pricing decisions involve people, incentives, uncertainty and trust.
 
-## The human questions behind the model
+## The questions behind the model
 
 ### 1. Will customers understand the change?
 A price increase can be economically rational and still fail if customers cannot explain what they are paying for. The product therefore frames AI credits as a visible value metric instead of hiding consumption behind an opaque bill.
